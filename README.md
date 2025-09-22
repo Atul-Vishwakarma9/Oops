@@ -1,4 +1,5 @@
-# Object-Oriented Programming (OOPs) Projects
+# Object-Oriented Programming (OOPs) code examples
+Code that I have done while learning oops
 **Owner:** Atul kumar Vishwakarma  
 **GitHub:** [Atul-Vishwakarma9](https://github.com/Atul-Vishwakarma9/Oops)  
 
