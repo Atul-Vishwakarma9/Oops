@@ -1,5 +1,5 @@
 # Object-Oriented Programming (OOPs) Projects
-**Owner:** Atul Vishwakarma  
+**Owner:** Atul kumar Vishwakarma  
 **GitHub:** [Atul-Vishwakarma9](https://github.com/Atul-Vishwakarma9/Oops)  
 
 Welcome to my **OOPs (Object-Oriented Programming) projects repository**! This repository showcases my hands-on work with OOP concepts in **C++** and **Java**, demonstrating my understanding of modern programming principles, software design, and real-world problem-solving.
@@ -47,7 +47,7 @@ Welcome to my **OOPs (Object-Oriented Programming) projects repository**! This r
 
 ## 💡 Learning Outcomes
 
-By exploring these projects, you can learn:
+By exploring these projects, I have learn:
 
 - How to design **efficient and modular code** using OOP principles.  
 - Implement **real-world software solutions** using classes, objects, and advanced OOP concepts.  
